@@ -1,20 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="/assets/css/style.css">
+<title>{{ site.title }}</title>
+<style>body{font-family:Arial;margin:20px;}</style>
 </head>
 <body>
-  <nav>
-    <a href="/">Home</a> |
-    <a href="/posts">Posts</a> |
-    <a href="/shop">Shop</a> |
-    <a href="/about">About</a>
-  </nav>
-  {{ content }}
-  <footer>
-    <p>Disclaimer: Affiliate links. Prices may vary.</p>
-  </footer>
+<header><h1><a href="/budget-finds-blog/">{{ site.title }}</a></h1></header>
+{{ content }}
+<footer>Affiliate site with Amazon tag deansdeals0e-20</footer>
 </body>
 </html>

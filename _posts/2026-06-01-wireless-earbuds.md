@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Best Budget Wireless Earbuds on AliExpress 2026"
+title: "Best Budget Wireless Earbuds on AliExpress & Amazon 2026"
 date: 2026-06-01
 categories: tech
 ---
 
-## Top Picks
+## Review
 
-1. **Model XYZ** - Great sound for under $15. [Buy on AliExpress](https://aliexpress.com/affiliate-link-placeholder) (affiliate)
+Great sound for under $20. [Buy on Amazon](https://www.amazon.com/s?k=wireless+earbuds&tag=deansdeals0e-20) or search AliExpress.
 
-Pros: Battery life, comfort.
-Cons: Bass not deepest.
+Pros: Battery life. Cons: Varies by seller.
 
-Full review coming soon.
+Replace with your specific affiliate links.
