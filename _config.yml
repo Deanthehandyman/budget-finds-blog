@@ -1,11 +1,7 @@
 title: Budget Finds - AliExpress & Amazon Affiliates
-de scription: Honest reviews and best budget deals with affiliate links using deansdeals0e-20
-baseurl: "/budget-finds-blog"
+de scription: Honest reviews and deals with your affiliate linksaseurl: "/budget-finds-blog"
 url: "https://Deanthehandyman.github.io"
 
-github_username: Deanthehandyman
-
-# Build settings
 markdown: kramdown
 theme: minima
 

@@ -3,14 +3,8 @@ layout: home
 title: Home
 ---
 
-# Welcome to Budget Finds
+# Budget Finds
 
-Discover great deals on AliExpress and Amazon with honest reviews. Use my Amazon tag deansdeals0e-20 for support!
+Discover great deals on Amazon and AliExpress. Affiliate links included.
 
-## Latest Posts
-{% for post in site.posts limit: 5 %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
-[View all posts](/budget-finds-blog/posts)
-[Shop Deals](/budget-finds-blog/shop)
+[Shop Now](/budget-finds-blog/shop)
