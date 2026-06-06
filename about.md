@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-This is an affiliate site promoting quality budget products from AliExpress. All links are affiliate links - I may earn a commission at no extra cost to you.
+This site helps you find budget products. Amazon affiliate tag deansdeals0e-20. AliExpress links coming.
 
 Contact: your@email.com

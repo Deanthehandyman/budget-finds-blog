@@ -3,15 +3,15 @@ layout: page
 title: Shop Deals
 ---
 
-## Featured Products
+# Featured Deals (Amazon & AliExpress)
 
-### Wireless Earbuds
-[Buy Now](https://aliexpress.com/affiliate-placeholder) - Great sound, long battery.
+**Amazon links use tag: deansdeals0e-20**
 
-### Smartwatch
-[Buy Now](https://aliexpress.com/affiliate-placeholder) - Fitness tracking on budget.
+## Tech Gadgets
+- **Wireless Earbuds**: [Buy on Amazon](https://www.amazon.com/s?k=wireless+earbuds&tag=deansdeals0e-20) or AliExpress
+- **Smartwatch**: [Shop Smartwatch](https://www.amazon.com/s?k=smartwatch&tag=deansdeals0e-20)
 
-### Kitchen Gadgets
-Choppers, blenders, and more - links in posts.
+## Kitchen
+- **Vegetable Chopper**: [Buy Chopper](https://www.amazon.com/s?k=vegetable+chopper&tag=deansdeals0e-20)
 
-More coming soon!
+*Affiliate disclosure: Commissions earned at no extra cost.*

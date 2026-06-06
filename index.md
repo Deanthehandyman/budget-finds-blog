@@ -5,13 +5,12 @@ title: Home
 
 # Welcome to Budget Finds
 
-Discover great deals on AliExpress with honest reviews, comparisons, and affiliate links. Shop smart, save money, and support the site!
+Discover great deals on AliExpress and Amazon with honest reviews. Use my Amazon tag deansdeals0e-20 for support!
 
 ## Latest Posts
 {% for post in site.posts limit: 5 %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-[View all posts](/posts)
-
-[Shop Deals](/shop)
+[View all posts](/budget-finds-blog/posts)
+[Shop Deals](/budget-finds-blog/shop)
