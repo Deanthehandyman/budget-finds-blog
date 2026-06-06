@@ -1,10 +1,10 @@
 title: Budget Finds - AliExpress & Amazon Affiliates
-de scription: Honest reviews and deals with your affiliate linksaseurl: "/budget-finds-blog"
+de scription: Best budget deals with affiliate links
+baseurl: "/budget-finds-blog"
 url: "https://Deanthehandyman.github.io"
 
 markdown: kramdown
 theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

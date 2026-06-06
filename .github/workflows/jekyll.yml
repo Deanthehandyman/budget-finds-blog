@@ -27,7 +27,7 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "/budget-finds-blog"
+        run: bundle exec jekyll build --baseurl "${{ github.event.repository.name }}"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

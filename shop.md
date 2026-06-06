@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Shop
+title: Shop Deals
 ---
 
-# Shop Deals with deansdeals0e-20
+# Shop Budget Finds
 
-**Amazon links use your tag deansdeals0e-20**
+## Wireless Earbuds
+[Buy on Amazon](https://www.amazon.com/s?k=wireless+earbuds&tag=deansdeals0e-20)
 
-- Wireless Earbuds: https://www.amazon.com/s?k=wireless+earbuds&tag=deansdeals0e-20
-- Smartwatch: https://www.amazon.com/s?k=smartwatch&tag=deansdeals0e-20
+## Smartwatch
+[Buy on Amazon](https://www.amazon.com/s?k=smartwatch&tag=deansdeals0e-20)
 
-Replace with specific product links.
+## Kitchen Gadgets
+[Buy on Amazon](https://www.amazon.com/s?k=kitchen+gadgets&tag=deansdeals0e-20)
+
+Replace with your AliExpress affiliate links for more options.
